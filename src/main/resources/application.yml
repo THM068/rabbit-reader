@@ -6,7 +6,7 @@ micronaut:
 rabbitmq:
   host: e05imq01.int.oogway.id.bskyb.com
   port: 5672
-  password: aAaaKP6BnYeH7zl7
+  password: aAaa444fsadas-KP6B sdtfxe454nYeH7zl7
   username: oogwayadmin
   virtual-host: int.oogway.id.bskyb.com
 
